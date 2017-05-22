@@ -1,2 +1,2 @@
 # hello-world
-Just another test repo
+Hello humans, my name is Simon
